@@ -1,0 +1,16 @@
+{
+    "packStructureVersion": 27,
+    "title": "Mo'ores ",
+    "guid": "08cd89ca-3891-41aa-ba6e-bc47db3ea62f",
+    "descriptionEnglish": "All ores in worldgen",
+    "version": 1,
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Zayahーざや",
+            "color": "#ffaf00f0",
+            "link": "https://github.com/Enderpllayer",
+            "icon_height": 110
+        }
+    ]
+}
